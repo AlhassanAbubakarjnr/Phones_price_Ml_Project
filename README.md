@@ -91,7 +91,7 @@ Phone_prices_mlops/
 ### 1️⃣ Clone the repository
 
 ~~~bash
-git clone <your-repo-url>
+git clone (https://github.com/AlhassanAbubakarjnr/Phones_price_Ml_Project.git)
 cd Phone_prices_mlops
 ~~~
 
