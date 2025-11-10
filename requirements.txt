@@ -8,6 +8,7 @@ xgboost
 setuptools
 numpy
 requests
--e .
+# -e .
 plotly
 streamlit
+moviepy

@@ -165,15 +165,11 @@ Access the app at [http://localhost:8501](http://localhost:8501).
 
 ---
 
-## Video Demo
 
+## 📹 Video Demo
 
-<video width="600" controls>
-  <source src="videos/streamlit_demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Streamlit Demo](videos/streamlit_demo.gif)
 
----
 ---
 
 ## Acknowledgements
