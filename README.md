@@ -167,10 +167,13 @@ Access the app at [http://localhost:8501](http://localhost:8501).
 
 ## Video Demo
 
-~~~ 
-[![Phone Price Prediction Demo](link-to-video-thumbnail)](link-to-video)
-~~~
 
+<video width="600" controls>
+  <source src="videos/streamlit_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
 ---
 
 ## Acknowledgements
