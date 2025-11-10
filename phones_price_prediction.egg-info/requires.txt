@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+matplotlib
+seaborn
+flask
+catboost
+xgboost
+setuptools
+numpy
+requests
+plotly
+streamlit
